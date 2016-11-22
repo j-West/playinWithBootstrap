@@ -1,3 +1,4 @@
-h1 {
-	color: burlywood;
+.colors {
+	background-color: burlywood;
+	border: 1px solid magenta;
 }
